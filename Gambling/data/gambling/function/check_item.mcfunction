@@ -1,2 +1,0 @@
-execute as @a if items entity @s weapon.mainhand minecraft:paper[minecraft:custom_data~{gambling_token:1b}] run function gambling:roll
-execute as @a unless items entity @s weapon.mainhand minecraft:paper[minecraft:custom_data~{gambling_token:1b}] run title @s actionbar {"text":"No token!","color":"red"}
