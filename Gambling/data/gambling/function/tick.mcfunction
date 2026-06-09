@@ -15,3 +15,5 @@ execute as @a if score @s LapisDeepMined matches 1.. run function gambling:check
 execute as @a if score @s GoldDeepMined matches 1.. run function gambling:check_mining_xp
 execute as @a if score @s RedstoneDeepMined matches 1.. run function gambling:check_mining_xp
 execute as @a if score @s DiamondDeepMined matches 1.. run function gambling:check_mining_xp
+
+execute if score #crate CrateActive matches 1 run function gambling:crate/crate_spin_check
