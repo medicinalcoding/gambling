@@ -1,0 +1,2 @@
+function other:setup_multipliers
+function other:setup_choppedcount

@@ -1,0 +1,11 @@
+scoreboard objectives add Chopped_pale_warped_stem minecraft.broken:minecraft.warped_stem
+scoreboard objectives add Chopped_pale_crimson_stem minecraft.broken:minecraft.warped_stem
+scoreboard objectives add Chopped_pale_oak_log minecraft.broken:minecraft.pale_oak_log
+scoreboard objectives add Chopped_cherry_log minecraft.broken:minecraft.cherry_log
+scoreboard objectives add Chopped_dark_oak_log minecraft.broken:minecraft.dark_oak_log
+scoreboard objectives add Chopped_mangrove_log minecraft.broken:minecraft.mangrove_log
+scoreboard objectives add Chopped_jungle_log minecraft.broken:minecraft.jungle_log
+scoreboard objectives add Chopped_birch_log minecraft.broken:minecraft.birch_log
+scoreboard objectives add Chopped_spruce_log minecraft.broken:minecraft.spruce_log
+scoreboard objectives add Chopped_oak_log minecraft.broken:minecraft.oak_log
+scoreboard objectives add Chopped_acacia_log minecraft.broken:minecraft.acacia_log

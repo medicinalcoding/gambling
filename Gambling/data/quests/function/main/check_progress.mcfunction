@@ -1,0 +1,10 @@
+execute if score @s QuestID matches 1 run function quests:main/quests/track_stone
+execute if score @s QuestID matches 2 run function quests:main/quests/track_logs
+execute if score @s QuestID matches 3 run function quests:main/quests/track_zombies
+execute if score @s QuestID matches 4 run function quests:main/quests/track_walk
+execute if score @s QuestID matches 5 run function quests:main/quests/track_skeletons
+execute if score @s QuestID matches 6 run function quests:main/quests/track_coal
+execute if score @s QuestID matches 7 run function quests:main/quests/track_creepers
+execute if score @s QuestID matches 8 run function quests:main/quests/track_logs
+execute if score @s QuestID matches 9 run function quests:main/quests/track_waves
+execute if score @s QuestID matches 10 run function quests:main/quests/track_gamble

@@ -1,0 +1,1 @@
+execute as @a if score @s QuestActive matches 1 run function quests:main/check_progress

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "gambling:load",
+    "waves:load",
+    "leveling:load",
+    "economy:load",
+    "other:load",
+    "quests:load"
+  ]
+}

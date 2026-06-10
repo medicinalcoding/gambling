@@ -1,0 +1,16 @@
+execute as @a if score @s StoneMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s CoalMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s CopperMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s IronMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s LapisMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s GoldMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s RedstoneMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s DiamondMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s NetheriteMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s CoalDeepMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s CopperDeepMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s IronDeepMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s LapisDeepMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s GoldDeepMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s RedstoneDeepMined matches 1.. run function leveling:mining/check_mining_xp
+execute as @a if score @s DiamondDeepMined matches 1.. run function leveling:mining/check_mining_xp

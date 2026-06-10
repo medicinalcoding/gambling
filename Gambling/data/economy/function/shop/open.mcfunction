@@ -1,0 +1,1 @@
+title @s actionbar {"text":"Balance: ","color":"yellow","extra":[{"score":{"name":"@s","objective":"Money"},"color":"gold"},{"text":" coins","color":"yellow"}]}
