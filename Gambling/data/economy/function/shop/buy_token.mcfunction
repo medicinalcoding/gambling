@@ -1,2 +1,0 @@
-execute if score @s Money matches ..49 run title @s actionbar {"text":"Not enough money! Token costs 50 coins.","color":"red"}
-execute if score @s Money matches 50.. run function economy:shop/confirm_buy_token

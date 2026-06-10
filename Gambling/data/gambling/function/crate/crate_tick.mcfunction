@@ -1,1 +1,0 @@
-execute if score #crate CrateActive matches 1 run function gambling:crate/crate_spin_check

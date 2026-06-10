@@ -1,1 +1,0 @@
-$execute as @a[nbt={UUID:$(uuid)}] run function economy:shop/buy_token
